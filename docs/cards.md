@@ -52,3 +52,4 @@ title: Cards
 * [Jr Flight](/docs/card_jr_flight.html)
 * [Jr Ops](/docs/card_jr_ops.html)
 * [Jr Sensors](/docs/card_jr_sensors.html)
+* [EdVentures App](/docs/card_edventuresapp.md)
